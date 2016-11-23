@@ -1,2 +1,3 @@
-test:ONE/amd64
+#test:ONE/amd64
+../../ONE/amd64
 ..
